@@ -3,7 +3,7 @@
 I like potatoes.
 
 ### 📊 Stats :
-![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green)
+![views counter](https://komarev.com/ghpvc/?username=SkYiMlTo&color=green)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SkYiMlTo&include_all_commits=true&show_icons=true&bg_color=3,FF9E00,FF8F00,FF8F0000&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&enable_experiments=new_ranking_system)](https://github.com/anuraghazra/github-readme-stats)
 
